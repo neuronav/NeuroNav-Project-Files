@@ -1,5 +1,4 @@
 # NeuroNav-Project-Files
-Augmented Reality stereotactic system for neurosurgical navigation
 
 **SHORT SUMMARY**
 
@@ -13,6 +12,7 @@ Like a standard PACS radiological software you can view the MRI slice by slice i
 Using augmented reality, NeuroNav overlays patient specific preoperative medical imaging onto a patient’s head in real time for needle guided tumor resection and tumor biopsy. Current framed and frameless stereotaxy display 3D medical imaging modalities on 2D screens outside of the surgical making image manipulation and surgery visualization difficult. We are improving stereotactic procedures by bringing 3D medical images into 3D space. We are freeing surgeons from 2D screens by using FDA approved Microsoft HoloLens and our novel algorithms to place multiple imaging modalities inside the surgical field thus improving surgical workflow. NeuroNav is the next step for medical imaging.
 
 **NEED STATEMENT**
+
 Neurosurgeons and their clinical team need a more efficient way to perform frameless stereotaxy during cranial tumor resection and biopsy procedures in order to improve real-time intraoperative 3D medical image visualization.
 
 
@@ -22,6 +22,7 @@ Stereotaxy is a way to navigate the brain to target a tumor for example for rese
 
 
 **SOLUTION**
+
 Using HoloLens Augmented Reality Headset we have created a frameless stereotactic system that can overlay holograms of medical images onto a patient for neurosurgical navigation to target a tumor during surgery without the need for extra navigational tools or extra screens cluttering the operating room.
 
 **OUR WORKFLOW**
@@ -38,12 +39,15 @@ Vuforia - Image tracking software. We used this to track out QR code placed on t
 
 
 **What's in this GitHub Repo?**
+
 Inside this GitHub Repo are all the assets for making this system in Unity. All 3D models and scripts for ray tracing are within this Repo. 
 
 **What else do I need?**
+
 You need to install the [Windows Mixed Reality Tollkit](https://microsoft.github.io/MixedRealityToolkit-Unity/Documentation/GettingStartedWithTheMRTK.html) to run this system on HoloLens and make sure you install MRTK Foundation, Extensions and Tools.
 
 **Basic Intructions**
+
 1. Download Windows Mixed Reality Toolkit
 2. Download NeuroNav's Repo
 3. Import these as packages into Unity
