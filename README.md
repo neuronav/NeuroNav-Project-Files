@@ -7,6 +7,9 @@ We are a team of University of Washington Bioengineering graduate students tryin
 Like a standard PACS radiological software you can view the MRI slice by slice in the sagittal plane. Using ray tracing techniques we managed to show volume within the 3D brain hologram.
 
 
+**Watch the Demo of how the system works [here](https://youtu.be/2SLJPcvVdx4)**
+
+
 **BACKGROUND**
 
 Using augmented reality, NeuroNav overlays patient specific preoperative medical imaging onto a patient’s head in real time for needle guided tumor resection and tumor biopsy. Current framed and frameless stereotaxy display 3D medical imaging modalities on 2D screens outside of the surgical making image manipulation and surgery visualization difficult. We are improving stereotactic procedures by bringing 3D medical images into 3D space. We are freeing surgeons from 2D screens by using FDA approved Microsoft HoloLens and our novel algorithms to place multiple imaging modalities inside the surgical field thus improving surgical workflow. NeuroNav is the next step for medical imaging.
